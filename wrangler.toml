@@ -1,5 +1,5 @@
-name = "subscription-manager"
-main = "sub"
+name = "sub"
+main = "SUBSTRACKER_KV"
 compatibility_date = "2024-01-01"
 compatibility_flags = ["nodejs_compat"]
 
